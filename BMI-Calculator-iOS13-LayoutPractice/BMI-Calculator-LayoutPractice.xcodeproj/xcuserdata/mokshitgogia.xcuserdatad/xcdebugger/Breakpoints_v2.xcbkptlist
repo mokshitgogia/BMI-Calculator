@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21BDAC55-8968-4639-B55D-F460850AB88D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "CalculateViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - 31ef9af67112d9cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.updateheight.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - f4861ab999fd7df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.updateheight.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - 10e54efd8d517ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.updateheight.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - 5fde0457d01ff55e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.updateheight.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - 2e7062fd94da3358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Calculator_LayoutPractice.ViewController"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "5A6A1594-7700-4E11-AADA-6F11BD15D415 - 20c202ef90be14d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator_LayoutPractice.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Calculator_LayoutPractice.ViewController&gt;"
+                  moduleName = "BMI-Calculator-LayoutPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mokshitgogia/Desktop/my%20ios%20apps/BMI-Calculator-iOS13-LayoutPractice/BMI-Calculator-LayoutPractice/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBB7FED8-2EDE-4422-B5C2-A14EA5520A90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI-Calculator-LayoutPractice/Controllers/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
